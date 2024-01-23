@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sumofdigits {
+public class Bsumofdigits {
 
     public static void main(String[] args) {
 
